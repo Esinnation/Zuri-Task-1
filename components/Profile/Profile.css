@@ -43,7 +43,7 @@ a{
 
 @media(max-width:428px){
     #share_btn{
-        content: url(../../public/Images/mobile_share.svg);
+        content: url(/Images/mobile_share.svg);
         right: 30px;
         top: 44px;
         background: #FFFFFF;
