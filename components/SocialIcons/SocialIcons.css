@@ -1,0 +1,10 @@
+.SocialIcons{
+    display: flex;
+    flex-direction: row;
+    gap: 26px;
+}
+
+img{
+    width: 24px;
+    height: 30px;
+}
