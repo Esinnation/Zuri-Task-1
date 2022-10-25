@@ -2,10 +2,6 @@
 
 body {
   margin: 0;
-  display: flex;
-  justify-content: center;
-  padding: 64px 112px;
   font-family: 'Inter', sans-serif;
-
 }
 

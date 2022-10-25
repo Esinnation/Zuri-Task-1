@@ -1,0 +1,14 @@
+.Links{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 100%;
+}
+
+.btn{
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    padding: 24px 32px;
+    text-align: center;
+}

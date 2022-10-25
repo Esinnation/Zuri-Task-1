@@ -4,12 +4,14 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 56px;
+    
 }
 
 #profile__img{
     width: 88px;
     height: 88px;
     border-radius: 275px;
+    margin-bottom: 24px;
 }
 #twitter{
     font-weight: 700;
@@ -20,4 +22,10 @@
 
 #slack{
     display: none;
+}
+a{
+    font-weight: 500;
+    font-size: 18px;
+    color: #101828;
+    text-decoration:none
 }
