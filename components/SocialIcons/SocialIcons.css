@@ -1,10 +1,17 @@
 .SocialIcons{
     display: flex;
     flex-direction: row;
-    gap: 26px;
+    gap: 24px;
+    margin-bottom: 132px;
 }
 
-img{
+.SocialIcons img{
     width: 24px;
     height: 30px;
+}
+
+@media(max-width:428px){
+    .SocialIcons{
+        display: none;
+    }
 }
